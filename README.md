@@ -1,4 +1,2 @@
-# BlockSite
-Add data in a webpage using node and mongodb
-simple node.js and css 
-using mongodb for database
+# BlogSite
+Add blogs & their details  in a webpage using node and mongodb
